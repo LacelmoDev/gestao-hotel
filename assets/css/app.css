@@ -1,0 +1,21 @@
+body {
+    background: #f8f9fa;
+}
+
+.navbar-brand {
+    font-weight: 600;
+}
+
+.card {
+    border: 0;
+}
+
+.table td, .table th {
+    vertical-align: middle;
+}
+
+@media (max-width: 767px) {
+    .card .card-body {
+        padding: 1rem;
+    }
+}
