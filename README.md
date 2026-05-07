@@ -17,6 +17,9 @@ Aplicação local em PHP com SQLite e Bootstrap para gerenciar quartos, hóspede
 - Check-out e cancelamento de reservas
 - Banco de dados local em `data/hotel.db`
 
+## 🌐 Demonstração Online
+Podes testar o sistema em tempo real aqui: http://hotels.wuaze.com/
+
 ## Estrutura
 
 - `index.php` - Dashboard
